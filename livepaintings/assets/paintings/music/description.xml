@@ -1,0 +1,17 @@
+<painting>
+	<name>Music</name>
+	<date>1910</date>
+	<artistName>Henri Matisse</artistName>
+	<artistNationality>French</artistNationality>
+	<artistPeriod>1869-1954</artistPeriod>
+	<isLandscape>true</isLandscape>
+	<isForSale>true</isForSale>
+	<eyesAbove>true</eyesAbove>
+	<eyes>
+		<eye x="83" y="35" minX="78" minY="32" maxX="86" maxY="38">eyes00.gif</eye>
+		<eye x="361" y="245" minX="356" minY="237" maxX="366" maxY="252">eyes01.gif</eye>
+		<eye x="695" y="90" minX="687" minY="85" maxX="702" maxY="95">eyes02.gif</eye>
+		<eye x="1011" y="21" minX="1004" minY="15" maxX="1017" maxY="28">eyes03.gif</eye>
+		<eye x="1125" y="390" minX="1118" minY="382" maxX="1131" maxY="394">eyes04.gif</eye>
+	</eyes>
+</painting>

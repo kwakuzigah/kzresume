@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/exploded-aar/LivePaintings2/rating-reminder/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="fadba3021f072381d816fd1b20b5b8db8c0dfc0e">
+        <dex dex="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/pre-dexed/free/debug/classes-97a772e24f6e5066fd889063b3b47b456d4e5ba2.jar" />
+    </item>
+    <item
+        jar="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0c0c19759e5868604a3b4c2c0074ee9404d73c76">
+        <dex dex="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/pre-dexed/free/debug/classes-e6c964d66327aec249222dc146a4781fbab1a9f2.jar" />
+    </item>
+    <item
+        jar="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/exploded-aar/com.mixpanel.android/mixpanel-android/4.5.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d71accd08c37a4eeee31d0b65ea10d70f0bdd4b6">
+        <dex dex="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/pre-dexed/free/debug/classes-cebb35cbcab39e2c685e836371e27f46f8eb0839.jar" />
+    </item>
+    <item
+        jar="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/pre-dexed/free/debug/classes-3f31ae41a5915d67c9c145e3efa7ea66c7a9bb16.jar" />
+    </item>
+    <item
+        jar="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5a8e01742aee890c56fe638ea7c921b91a3fdc62">
+        <dex dex="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/pre-dexed/free/debug/internal_impl-21.0.0-ebf08475951028caff423b43310d9ba0b5603d7c.jar" />
+    </item>
+    <item
+        jar="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/pre-dexed/free/debug/internal_impl-21.0.0-d2469c293561a1742828d80b0f13726bd609ae97.jar" />
+    </item>
+    <item
+        jar="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/pre-dexed/free/debug/classes-a0eb9feedb4433fc04ec493955d14d3ea865c4b2.jar" />
+    </item>
+    <item
+        jar="/Users/dai/.gradle/caches/modules-2/files-2.1/com.splunk.mint/mint/4.0.7/c11d84e7bd447629c89adf2f325f3662aecf5a32/mint-4.0.7.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c11d84e7bd447629c89adf2f325f3662aecf5a32">
+        <dex dex="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/pre-dexed/free/debug/mint-4.0.7-b3e984664db5d86975eb7f0017bf03e484da1d05.jar" />
+    </item>
+    <item
+        jar="/Applications/android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/dai/dev/android-nowinstore/LivePaintings2/app/build/intermediates/pre-dexed/free/debug/support-annotations-21.0.0-6d8d2a9aa955bb567e333a2363d0c616b80cb2cb.jar" />
+    </item>
+
+</items>

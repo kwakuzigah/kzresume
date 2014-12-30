@@ -1,0 +1,13 @@
+<painting>
+	<name>The Cook</name>
+	<date>1570</date>
+	<artistName>Giuseppe Arcimboldo</artistName>
+	<artistNationality>Italian</artistNationality>
+	<artistPeriod>1527-1593</artistPeriod>
+	<isLandscape>false</isLandscape>
+	<isForSale>true</isForSale>
+	<eyesAbove>false</eyesAbove>
+	<eyes>
+		<eye x="408" y="395" minX="386" minY="365" maxX="490" maxY="413">eyes00.jpg</eye>
+	</eyes>
+</painting>

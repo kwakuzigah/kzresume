@@ -1,0 +1,20 @@
+<painting>
+	<name>Golgotha</name>
+	<date>1900</date>
+	<artistName>Edvard Munch</artistName>
+	<artistNationality>Norwegian</artistNationality>
+	<artistPeriod>1863-1944</artistPeriod>
+	<isLandscape>true</isLandscape>
+	<isForSale>true</isForSale>
+	<eyesAbove>true</eyesAbove>
+	<eyes>
+		<eye x="324" y="673" minX="322" minY="662" maxX="333" maxY="680">eyes00.gif</eye>
+		<eye x="421" y="654" minX="410" minY="648" maxX="425" maxY="660">eyes01.gif</eye>
+		<eye x="595" y="602" minX="585" minY="599" maxX="603" maxY="608">eyes02.gif</eye>
+		<eye x="586" y="77" minX="583" minY="74" maxX="589" maxY="80">eyes03.gif</eye>
+		<eye x="774" y="512" minX="768" minY="509" maxX="777" maxY="515">eyes04.gif</eye>
+		<eye x="925" y="513" minX="922" minY="510" maxX="928" maxY="516">eyes05.gif</eye>
+		<eye x="1029" y="482" minX="1023" minY="475" maxX="1035" maxY="489">eyes06.gif</eye>
+		<eye x="1185" y="711" minX="1177" minY="705" maxX="1192" maxY="714">eyes07.gif</eye>
+	</eyes>
+</painting>

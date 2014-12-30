@@ -1,0 +1,12 @@
+<painting>
+	<name>Self Portrait, the Despairing Man</name>
+	<date>1843–1845</date>
+	<artistName>Gustave Courbet</artistName>
+	<artistNationality>French</artistNationality>
+	<artistPeriod>1819-1877</artistPeriod>
+	<isLandscape>true</isLandscape>
+	<isForSale>false</isForSale>
+	<eyes>
+		<eye x="412" y="304" minX="376" minY="281" maxX="448" maxY="321">eyes00.jpg</eye>
+	</eyes>
+</painting>

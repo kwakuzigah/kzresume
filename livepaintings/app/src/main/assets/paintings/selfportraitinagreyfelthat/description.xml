@@ -1,0 +1,13 @@
+<painting>
+	<name>Self-Portrait in a Grey Felt Hat</name>
+	<date>1887</date>
+	<artistName>Vincent van Gogh</artistName>
+	<artistNationality>Dutch</artistNationality>
+	<artistPeriod>1853-1890</artistPeriod>
+	<isLandscape>false</isLandscape>
+	<isForSale>true</isForSale>
+	<eyesAbove>false</eyesAbove>
+	<eyes>
+		<eye x="135" y="360" minX="101" minY="350" maxX="153" maxY="376">eyes00.jpg</eye>
+	</eyes>
+</painting>

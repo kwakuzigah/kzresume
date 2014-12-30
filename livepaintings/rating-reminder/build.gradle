@@ -1,0 +1,23 @@
+apply plugin: 'com.android.library'
+
+repositories {
+    maven {
+        url "https://mint.splunk.com/gradle/"
+    }
+}
+
+
+android {
+    compileSdkVersion 20
+    buildToolsVersion "20.0.0"
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 20
+    }
+}
+
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+}

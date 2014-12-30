@@ -1,0 +1,13 @@
+<painting>
+	<name>Girl with a Pearl Earring</name>
+	<date>1665</date>
+	<artistName>Johannes Vermeer</artistName>
+	<artistNationality>Dutch</artistNationality>
+	<artistPeriod>1632-1675</artistPeriod>
+	<isLandscape>false</isLandscape>
+	<isForSale>true</isForSale>
+	<eyesAbove>false</eyesAbove>
+	<eyes>
+		<eye x="64" y="424" minX="26" minY="418" maxX="80" maxY="442">eyes00.jpg</eye>
+	</eyes>
+</painting>

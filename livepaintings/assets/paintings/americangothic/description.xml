@@ -1,0 +1,14 @@
+<painting>
+	<name>American Gothic</name>
+	<date>1930</date>
+	<artistName>Grant Wood</artistName>
+	<artistNationality>American</artistNationality>
+	<artistPeriod>1891-1942</artistPeriod>
+	<isLandscape>false</isLandscape>
+	<isForSale>true</isForSale>
+	<eyesAbove>false</eyesAbove>
+	<eyes>
+		<eye x="83" y="377" minX="67" minY="372" maxX="92" maxY="384">eyes00.jpg</eye>
+		<eye x="525" y="254" minX="509" minY="247" maxX="540" maxY="265">eyes01.jpg</eye>
+	</eyes>
+</painting>

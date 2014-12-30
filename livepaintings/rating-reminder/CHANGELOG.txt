@@ -1,0 +1,30 @@
+Version 1.4
+
+* Yandex store support added
+* Strings modified
+
+Version 1.3
+
+* 3rd button "No thanks" added
+* Strings modified
+* Code cleaning, Store class simplified
+
+Version 1.2
+
+* AppStores support
+  * Multiple Appstores support added for Google Playstore, 
+    Amazon Store and Kurio Store.
+
+Version 1.1
+
+* Small changes
+  * Suppression of Handler, let to developer's responsibility
+  * Imports cleaning
+  * Javadoc comments in code
+
+Version 1.0
+
+* Initial Version
+  * Easy configuration
+  * Multi Algo support
+  * Multi dialog themes support

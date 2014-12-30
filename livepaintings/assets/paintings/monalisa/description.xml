@@ -1,0 +1,13 @@
+<painting>
+	<name>Mona Lisa</name>
+	<date>1503-1519</date>
+	<artistName>Leonardo da Vinci</artistName>
+	<artistNationality>Italian</artistNationality>
+	<artistPeriod>1452-1519</artistPeriod>
+	<isLandscape>false</isLandscape>
+	<isForSale>false</isForSale>
+	<eyesAbove>false</eyesAbove>
+	<eyes>
+		<eye x="272" y="243" minX="258" minY="238" maxX="284" maxY="251">eyes00.jpg</eye>
+	</eyes>
+</painting>

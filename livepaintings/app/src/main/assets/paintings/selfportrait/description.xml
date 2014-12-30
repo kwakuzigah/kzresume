@@ -1,0 +1,13 @@
+<painting>
+	<name>Self-Portrait</name>
+	<date>1907</date>
+	<artistName>Pablo Picasso</artistName>
+	<artistNationality>Spanish</artistNationality>
+	<artistPeriod>1881-1973</artistPeriod>
+	<isLandscape>false</isLandscape>
+	<isForSale>true</isForSale>
+	<eyesAbove>false</eyesAbove>
+	<eyes>
+		<eye x="206" y="267" minX="136" minY="223" maxX="286" maxY="303">eyes00.jpg</eye>
+	</eyes>
+</painting>

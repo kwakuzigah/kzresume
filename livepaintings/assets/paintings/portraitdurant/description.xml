@@ -1,0 +1,14 @@
+<painting>
+	<name>Portrait of Charles and Georges Durand-Ruel</name>
+	<date>1882</date>
+	<artistName>Pierre-Auguste Renoir</artistName>
+	<artistNationality>French</artistNationality>
+	<artistPeriod>1841–1919</artistPeriod>
+	<isLandscape>true</isLandscape>
+	<isForSale>true</isForSale>
+	<eyesAbove>false</eyesAbove>
+	<eyes>
+		<eye x="351" y="161" minX="338" minY="158" maxX="360" maxY="168">eyes00.jpg</eye>
+		<eye x="869" y="258" minX="853" minY="255" maxX="884" maxY="263">eyes01.jpg</eye>
+	</eyes>
+</painting>

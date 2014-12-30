@@ -1,0 +1,14 @@
+<painting>
+	<name>Sistine Madonna (Part of)</name>
+	<date>1513-1514</date>
+	<artistName>Raphael</artistName>
+	<artistNationality>Italian</artistNationality>
+	<artistPeriod>1483-1520</artistPeriod>
+	<isLandscape>true</isLandscape>
+	<isForSale>true</isForSale>
+	<eyesAbove>false</eyesAbove>
+	<eyes>
+		<eye x="369" y="335" minX="360" minY="329" maxX="381" maxY="347">eyes00.jpg</eye>
+		<eye x="833" y="485" minX="811" minY="479" maxX="842" maxY="493">eyes01.jpg</eye>
+	</eyes>
+</painting>

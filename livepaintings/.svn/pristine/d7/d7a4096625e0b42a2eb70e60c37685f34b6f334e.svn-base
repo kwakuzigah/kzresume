@@ -1,0 +1,13 @@
+<painting>
+	<name>Self Portrait With Black Vase And Spread Fingers</name>
+	<date>1911</date>
+	<artistName>Egon Schiele</artistName>
+	<artistNationality>Austrian</artistNationality>
+	<artistPeriod>1890-1918</artistPeriod>
+	<isLandscape>true</isLandscape>
+	<isForSale>true</isForSale>
+	<eyesAbove>false</eyesAbove>
+	<eyes>
+		<eye x="230" y="116" minX="206" minY="107" maxX="248" maxY="130">eyes00.jpg</eye>
+	</eyes>
+</painting>
