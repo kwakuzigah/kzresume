@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- material design colors -->
+    <item name="material_red_500" type="color">#F44336</item>
+    <item name="material_red_700" type="color">#D32F2F</item>
+    <item name="material_blue_A200" type="color">#03A9F4</item>
+    <item name="material_grey_300" type="color">#E0E0E0</item>
+    <item name="secondary_text" type="color">#727272</item>
+</resources>

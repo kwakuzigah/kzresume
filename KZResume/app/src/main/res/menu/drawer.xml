@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_me"
+            android:checked="true"
+            android:icon="@drawable/ic_face_black_24dp"
+            android:title="Me" />
+        <item
+            android:id="@+id/nav_my_work"
+            android:icon="@drawable/ic_code_black_24dp"
+            android:title="My Work" />
+    </group>
+</menu>
